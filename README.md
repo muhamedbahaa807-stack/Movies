@@ -3,7 +3,7 @@
 A high-performance, responsive movie discovery web application built with **React.js** and **Tailwind CSS**. This platform provides a premium user experience for exploring trending movies, searching the TMDB database, and viewing detailed cinematic information.
 
 ## 🚀 Live Demo
-[Check out the Live App]((https://movieshub-self-xi.vercel.app/))
+[Check out the Live App]([YOUR_DEPLOYMENT_LINK_HERE](https://movieshub-self-xi.vercel.app/))
 
 ## ✨ Key Features
 * **Dynamic Discovery**: Fetches real-time "Trending" and "Popular" movies directly from the TMDB API.
